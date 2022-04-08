@@ -1,4 +1,4 @@
-### Hi there 👋
+### I never thought *I'd* be the one making repositories on GitHub, but look at me now
 
 <!--
 **Emblin13/Emblin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
