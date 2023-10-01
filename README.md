@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Inspire-Me-purple?link=https%3A%2F%2Finspirobot.me%2F
+![Static Badge](https://img.shields.io/badge/Inspire-Me-purple?link=https%3A%2F%2Finspirobot.me%2F)
 
 # Interests
 
