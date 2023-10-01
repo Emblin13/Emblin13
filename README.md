@@ -1,3 +1,5 @@
+https://img.shields.io/badge/Inspire-Me-purple?link=https%3A%2F%2Finspirobot.me%2F
+
 # Interests
 
 I don't have any particular fields of computer science that I want to jump into for my first job, so long as the pay and work environment are good.
